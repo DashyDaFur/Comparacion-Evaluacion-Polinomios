@@ -3,8 +3,8 @@
 #include <chrono>
 #include <cstdlib>
 #include <string>
-#include "aux.hpp"
-#include "metodos.hpp"
+#include "../include/aux.hpp"
+#include "../include/metodos.hpp"
 
 // -- Valores configurables --
 #define REPETICIONES 1000
