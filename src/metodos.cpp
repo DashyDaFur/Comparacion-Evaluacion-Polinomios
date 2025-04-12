@@ -1,4 +1,4 @@
-#include "metodos.hpp"
+#include "../include/metodos.hpp"
 
 double EvaluarPolinomioEstandar(double* a, int grado, double n)
 {
