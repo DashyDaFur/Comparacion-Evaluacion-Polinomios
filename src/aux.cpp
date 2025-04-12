@@ -12,7 +12,7 @@ void Pause()
     cin.get();
 }
 
-inline int aleatorio(int inicio, int fin)
+int aleatorio(int inicio, int fin)
 {
     return inicio + rand() % (fin - inicio + 1);
 }
