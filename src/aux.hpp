@@ -5,7 +5,7 @@
 #include <string>
 
 void Pause();
-inline int aleatorio(int inicio, int fin);
+int aleatorio(int inicio, int fin);
 double* GenerarPolinomioAleatorio(int grado);
 void ExportarCSV(const std::vector<std::vector<double>>& datos, const std::string& nombre);
 
