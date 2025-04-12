@@ -1,4 +1,4 @@
-t#include <iostream>
+#include <iostream>
 #include <fstream>
 #include <cstdlib>
 #include "../include/aux.hpp"
