@@ -1,4 +1,4 @@
-#include <iostream>
+t#include <iostream>
 #include <fstream>
 #include <cstdlib>
 #include "aux.hpp"
@@ -43,7 +43,7 @@ void ExportarCSV(const vector<vector<double>>& datos, const string& nombre)
         return;
     }
 
-    archivo << "Grado,Tiempo Manual,Tiempo Horner" << endl;
+    archivo << "Grado,Tiempo Estandar,Tiempo Horner" << endl;
 
     for (int i = 0; i < datos.size(); ++i){
         const vector<double>& fila = datos[i];
