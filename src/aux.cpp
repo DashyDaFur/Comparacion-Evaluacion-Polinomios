@@ -1,7 +1,7 @@
 t#include <iostream>
 #include <fstream>
 #include <cstdlib>
-#include "aux.hpp"
+#include "../include/aux.hpp"
 
 using namespace std;
 
