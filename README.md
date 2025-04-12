@@ -26,7 +26,7 @@ Midiendo el tiempo promedio de ejecución en milisegundos para diferentes grados
 
 ## 👨‍💻 Autor
 
-Nombre del estudiante: Daniel Leinad Dominguez Calvario
+Nombre del estudiante: Daniel Leinad Dominguez Calvario.
 
 
 ## 📋 Requisitos
