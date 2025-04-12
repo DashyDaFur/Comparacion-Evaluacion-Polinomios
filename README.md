@@ -57,7 +57,7 @@ Nombre del estudiante: Daniel Leinad Dominguez Calvario
    ```bash
    git clone https://github.com/DashyDaFur/Comparacion-Evaluacion-Polinomios.git
    cd Comparacion-Evaluacion-Polinomios
-  ```
+   ```
 
 2. Crea un directorio de compilación y compila el proyecto:
    ```bash
