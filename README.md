@@ -22,7 +22,7 @@ Este método reduce significativamente el número de multiplicaciones y sumas.
 
 </details> 
 
-Midiendo el tiempo promedio de ejecución en milisegundos para diferentes grados de polinomio.
+Midiendo el tiempo promedio de ejecución en milisegundos para diferentes grados de polinomio. Los resultados se exportan a un archivo `.csv` en el directorio raiz del proyecto.
 
 ## 👨‍💻 Autor
 
@@ -73,7 +73,8 @@ Nombre del estudiante: Daniel Leinad Dominguez Calvario.
 	
 
 ## 🌳 Estructura del Proyecto  
-- **Carpeta `src`**: Contiene los archivos `.cpp` y `.hpp`.  
+- **Carpeta `src`**: Contiene los archivos de codigo fuente.  
+- **Carpeta `include`**: Contiene los archivos de cabecera.
 - **Carpeta `img`**: Contiene todas las imágenes utilizadas en este repositorio.
 - **Carpeta `data`**: Contiene el archivo csv generado para el analisis.
 - **`README.md`**: Contiene una descripción general del proyecto.
